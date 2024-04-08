@@ -1,6 +1,7 @@
 # Front Google desktop
 
 El siguiente proyecto fue realizado en el curso práctico de HTML t CSS de Platzi.
+Puedes ver el proyecto desplegado en el siguiente link → https://reffcp.github.io/clone-front-google/
 
 ## Instalación
 
