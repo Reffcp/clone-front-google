@@ -1,2 +1,13 @@
-# cone-front-google
-Proyecto, curso practico de HTML y CSS de Platzi
+# Front Google desktop
+
+El siguiente proyecto fue realizado en el curso práctico de HTML t CSS de Platzi.
+
+## Instalación
+
+Pasos para instalar y configurar el proyecto.
+
+```bash
+git clone https://github.com/Reffcp/clone-front-google.git
+cd clone-front-google
+/** se recomienda instalar la extensión Live Server en VS Code */
+/** click derechi en el index y selecciona open with live server */
